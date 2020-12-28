@@ -1,0 +1,22 @@
+
+// Tutorial 15
+// Getters and Return Values
+
+class Person {
+	
+	String name;
+	int age;
+	
+	void speak() {
+		System.out.println("My name is: " + name);
+	}
+}
+
+
+public class App {
+
+	public static void main(String[] args) {
+		
+	}
+	
+}

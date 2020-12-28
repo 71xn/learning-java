@@ -1,0 +1,27 @@
+
+// Tutorial 17
+// Setter and the "this" keywords
+
+
+class Frog {
+	String name;
+	int age;
+	
+	// Getter Methods, getting a value from an instance of an object
+	public String getName() {
+		return name;
+	}
+	
+	public int getAge() {
+		return age;
+	}
+	
+}
+
+public class App {
+	
+	public static void main(String[] args) {
+		
+	}
+	
+}

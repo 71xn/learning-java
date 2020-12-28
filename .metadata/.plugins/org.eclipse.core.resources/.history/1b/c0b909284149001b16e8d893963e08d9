@@ -1,0 +1,22 @@
+
+// Tutorial 18
+// Constructors
+
+// Constructors are special methods that are run every time a new instance of a class is created
+
+class Machine {
+	
+	// Constructors always have to have the same name as the class
+	// They have no return type, void, String, double, boolean etc.
+	
+	public Machine() {
+		System.out.println("Constructor Running!");
+	}
+	
+}
+
+public class App {
+	public static void main(String[] args) {
+		Machine machine1 = new Machine();
+	}
+}

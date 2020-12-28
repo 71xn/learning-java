@@ -1,0 +1,24 @@
+
+// Tutorial 16
+// Method Parameters
+
+class Robot {
+	// String text is the method parameter, it means that for the function to run it needs an input of type String
+	public void speak(String text) {
+		System.out.println(text);
+	}
+	
+	
+}
+
+
+public class App {
+	
+	public static void main(String[] args) {
+		
+		Robot sam = new Robot();
+		sam.speak("Hi I'm Sam.");
+		
+	}
+	
+}
