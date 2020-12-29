@@ -17,9 +17,12 @@
     <fullyQualifiedTypeName name="java.lang.StringBuilder"/>
     <fullyQualifiedTypeName name="Car"/>
     <fullyQualifiedTypeName name="Info"/>
-    <fullyQualifiedTypeName name="Machine"/>
     <fullyQualifiedTypeName name="World.Plant"/>
     <fullyQualifiedTypeName name="Plant"/>
     <fullyQualifiedTypeName name="Tree"/>
     <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="Camera"/>
+    <fullyQualifiedTypeName name="Machine"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
 </qualifiedTypeNameHistroy>
