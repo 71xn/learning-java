@@ -20,9 +20,9 @@
     <fullyQualifiedTypeName name="World.Plant"/>
     <fullyQualifiedTypeName name="Plant"/>
     <fullyQualifiedTypeName name="Tree"/>
-    <fullyQualifiedTypeName name="java.lang.Override"/>
     <fullyQualifiedTypeName name="Camera"/>
-    <fullyQualifiedTypeName name="Machine"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="java.util.HashMap"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="Machine"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
 </qualifiedTypeNameHistroy>
