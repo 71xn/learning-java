@@ -2,7 +2,6 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="sun.jvm.hotspot.utilities.BitMapInterface"/>
     <fullyQualifiedTypeName name="sun.java2d.loops.ScaledBlit"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="java.lang.StrictMath"/>
     <fullyQualifiedTypeName name="sun.font.StrikeCache"/>
@@ -15,14 +14,22 @@
     <fullyQualifiedTypeName name="Frog"/>
     <fullyQualifiedTypeName name="App"/>
     <fullyQualifiedTypeName name="java.lang.StringBuilder"/>
-    <fullyQualifiedTypeName name="Car"/>
     <fullyQualifiedTypeName name="Info"/>
     <fullyQualifiedTypeName name="World.Plant"/>
     <fullyQualifiedTypeName name="Plant"/>
     <fullyQualifiedTypeName name="Tree"/>
-    <fullyQualifiedTypeName name="Camera"/>
     <fullyQualifiedTypeName name="java.util.HashMap"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.io.FileNotFoundException"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="com.sun.tools.example.debug.expr.ParseException"/>
+    <fullyQualifiedTypeName name="Test"/>
+    <fullyQualifiedTypeName name="Camera"/>
+    <fullyQualifiedTypeName name="Car"/>
     <fullyQualifiedTypeName name="Machine"/>
     <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="java.io.File"/>
+    <fullyQualifiedTypeName name="java.io.FileReader"/>
+    <fullyQualifiedTypeName name="java.io.BufferedReader"/>
 </qualifiedTypeNameHistroy>
